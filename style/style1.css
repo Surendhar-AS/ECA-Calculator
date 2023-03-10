@@ -1,0 +1,42 @@
+
+.form-box{
+width:40%;
+height:55%;
+position:relative;
+margin:6% auto;
+background:#000000;
+opacity: .7;
+padding:5px;
+overflow:hidden;
+}
+
+.p1{
+font-family:"Comic Sans MS";
+color:#fff;
+text-align:center;
+font-weight: bold;
+font-size:30px;
+}
+.p2{
+font-family:"Comic Sans MS";
+color:#fff;
+}
+
+a{
+width:30%;
+}
+
+a:link, a:visited {
+  background-color: #f44336;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover, a:active {
+  width:67%;
+  background-color: red;
+  cursor:pointer;
+}
